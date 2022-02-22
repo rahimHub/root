@@ -8,7 +8,7 @@
 <h5>
 ابتدا وارد ترموکس بشید و با دستور زیر اسکریپت رو دانلود کنید:
 <br><pre>
-git clone https://github.com/HACKGM/root
+git clone https://github.com/tHACKGM/root
 </pre>
 سپس با دستور زیر وارد پوشه اسکریپت بشید:
 <br><pre>
